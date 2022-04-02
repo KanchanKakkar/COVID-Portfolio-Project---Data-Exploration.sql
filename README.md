@@ -1,1 +1,1 @@
-# COVID-Portfolio-Project---Data-Exploration.sql
+# COVID-Data-Exploration.sql
